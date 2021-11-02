@@ -1,2 +1,2 @@
-# ciphering_cli_tool
-RS School task 1 solution
+# Ciphering CLI Tool
+RS School task-1 solution
