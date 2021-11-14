@@ -12,7 +12,7 @@ npm init
 
 Clone this repository or click green button and press the "Download ZIP" button
 ```bash
-git clone https://github.com/tims-crew/todo_list/new/main?readme=1
+https://github.com/tims-crew/ciphering_cli_tool.git
 ```
 App run examples
 
